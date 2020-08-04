@@ -1,0 +1,13 @@
+E:\MyFiles\Study\GeekBrains\HomeWork3\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.exe
+E:\MyFiles\Study\GeekBrains\HomeWork3\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.deps.json
+E:\MyFiles\Study\GeekBrains\HomeWork3\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.runtimeconfig.json
+E:\MyFiles\Study\GeekBrains\HomeWork3\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.runtimeconfig.dev.json
+E:\MyFiles\Study\GeekBrains\HomeWork3\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.dll
+E:\MyFiles\Study\GeekBrains\HomeWork3\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.pdb
+E:\MyFiles\Study\GeekBrains\HomeWork3\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.csprojAssemblyReference.cache
+E:\MyFiles\Study\GeekBrains\HomeWork3\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.csproj.CoreCompileInputs.cache
+E:\MyFiles\Study\GeekBrains\HomeWork3\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.AssemblyInfoInputs.cache
+E:\MyFiles\Study\GeekBrains\HomeWork3\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.AssemblyInfo.cs
+E:\MyFiles\Study\GeekBrains\HomeWork3\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.dll
+E:\MyFiles\Study\GeekBrains\HomeWork3\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.pdb
+E:\MyFiles\Study\GeekBrains\HomeWork3\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.genruntimeconfig.cache
